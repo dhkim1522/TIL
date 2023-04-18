@@ -10,6 +10,10 @@ TIL(Today I learned) 저장소
 
 * [앤서블 Playbook 작성 시 모듈 팁](https://velog.io/@dhkim1522/%EC%95%A4%EC%84%9C%EB%B8%94-Playbook-%EC%9E%91%EC%84%B1-%EC%8B%9C-%EB%AA%A8%EB%93%88-%ED%8C%81)
 
+### MSA
+
+* [MSA에서의 API Gateway 고찰](https://www.notion.so/MSA-API-Gateway-7d0e403b96544b0eaca6d860cda02fe9)
+
 
 <br>
 
