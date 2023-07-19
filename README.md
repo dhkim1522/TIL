@@ -12,7 +12,7 @@ TIL(Today I learned) 저장소
 
 * [[k8s] Volume - PV/PVC](https://velog.io/@dhkim1522/k8s-Volume-PVPVC)
 
-* [Kubespray를 사용하여 kubernetes cluster 구축하기]([https://velog.io/@dhkim1522/k8s-Volume-PVPVC](https://velog.io/write?id=97e3be58-bb97-4ef9-a406-3f8a41d7bbb2))
+* [Kubespray를 사용하여 kubernetes cluster 구축하기](https://velog.io/@dhkim1522/k8s-Volume-PVPVC](https://velog.io/write?id=97e3be58-bb97-4ef9-a406-3f8a41d7bbb2)
 
 ### Ansible
 
