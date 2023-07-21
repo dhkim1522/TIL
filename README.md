@@ -36,7 +36,7 @@ TIL(Today I learned) 저장소
 
 ### CS
 
-* [되새기는 REST API](https://www.notion.so/MSA-API-Gateway-7d0e403b96544b0eaca6d860cda02fe9](https://velog.io/@dhkim1522/CS-%EB%90%98%EC%83%88%EA%B8%B0%EB%8A%94-REST-API)https://velog.io/@dhkim1522/CS-%EB%90%98%EC%83%88%EA%B8%B0%EB%8A%94-REST-API)
+* [되새기는 REST API](https://velog.io/@dhkim1522/CS-%EB%90%98%EC%83%88%EA%B8%B0%EB%8A%94-REST-API)
 
 
 <br>
