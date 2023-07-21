@@ -21,7 +21,7 @@ TIL(Today I learned) 저장소
 
 ### MSA
 
-* [MSA에서의 API Gateway 고찰](https://www.notion.so/MSA-API-Gateway-7d0e403b96544b0eaca6d860cda02fe9)
+* [MSA에서의 API Gateway 고찰](https://caring-alloy-f82.notion.site/MSA-API-Gateway-7d0e403b96544b0eaca6d860cda02fe9?pvs=4)
 
 
 <br>
