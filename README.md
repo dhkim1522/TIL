@@ -10,8 +10,6 @@ TIL(Today I learned) 저장소
 
 * [되새기는 REST API](https://velog.io/@dhkim1522/CS-%EB%90%98%EC%83%88%EA%B8%B0%EB%8A%94-REST-API)
 
-### 
-
 * [Servlet Filter & Spring Interceptor](https://dhkim1522.notion.site/Servlet-Filter-Spring-Interceptor-1f6e03c073e94107b9fb86620a9c51e0?pvs=4)
 
 * [JPA OSIV (Open Session In View)](https://dhkim1522.notion.site/JPA-OSIV-Open-Session-In-View-c239c29118974b2ea510426f29460d75?pvs=4)
