@@ -6,6 +6,17 @@ TIL(Today I learned) 저장소
 * 🍞 [빵 부스러기 저장소](https://github.com/rlarudgkswkd/TIL-repository/blob/master/ETC/BreadComb.md)
 <br>
 
+## CS
+
+* [되새기는 REST API](https://velog.io/@dhkim1522/CS-%EB%90%98%EC%83%88%EA%B8%B0%EB%8A%94-REST-API)
+
+### 
+
+* [Servlet Filter & Spring Interceptor](https://dhkim1522.notion.site/Servlet-Filter-Spring-Interceptor-1f6e03c073e94107b9fb86620a9c51e0?pvs=4)
+
+* [JPA OSIV (Open Session In View)](https://dhkim1522.notion.site/JPA-OSIV-Open-Session-In-View-c239c29118974b2ea510426f29460d75?pvs=4)
+
+
 ### Kubernetes
 
 * [k8s에서 private registry 사용 (secret)](https://velog.io/@dhkim1522/k8s-%EB%A6%AC%EC%86%8C%EC%8A%A4%EC%97%90%EC%84%9C-Private-Registry%EB%A5%BC-%ED%86%B5%ED%95%B4-Image%EB%A5%BC-%EA%B0%80%EC%A0%B8%EC%98%A4%EB%8A%94-%EB%B0%A9%EB%B2%95)
@@ -26,17 +37,8 @@ TIL(Today I learned) 저장소
 
 <br>
 
-### DB
 
 
-### Python
-
-
-<br>
-
-### CS
-
-* [되새기는 REST API](https://velog.io/@dhkim1522/CS-%EB%90%98%EC%83%88%EA%B8%B0%EB%8A%94-REST-API)
 
 
 <br>
