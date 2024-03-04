@@ -2,6 +2,11 @@
 TIL(Today I learned) 저장소
 
 ---
+
+## Reactive Programming
+
+* [Reactor Error Operator 정리]([https://velog.io/@dhkim1522/CS-%EB%90%98%EC%83%88%EA%B8%B0%EB%8A%94-REST-API](https://velog.io/@dhkim1522/Spring-WebFlux-Reactor-Error-Operator-%EC%A0%95%EB%A6%AC))
+
 ### ETC
 * 🍞 [빵 부스러기 저장소](https://github.com/rlarudgkswkd/TIL-repository/blob/master/ETC/BreadComb.md)
 <br>
